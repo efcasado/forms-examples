@@ -1,0 +1,7 @@
+%% -*- mode: erlang -*-
+{application, 'forms-examples',
+ [
+  {description, "Collection of examples using the forms library"},
+  {vsn, "0.1"},
+  {modules, []}
+ ]}.
